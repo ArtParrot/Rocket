@@ -1,5 +1,5 @@
 # 由Parrot编写
-## 项目规划
+## 项目声明
 ### 在服务端使用rocket聊天软件框架
 #### Rocket介绍
 支持跨平台win macos linux android ios web  
